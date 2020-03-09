@@ -5,3 +5,4 @@ Div 2 A problems that i solved when i started codeforces
 ## 2 [Way Too Long Words](http://codeforces.com/contest/71/problem/A)
 ## 3 [String Task](http://codeforces.com/problemset/problem/118/A)
 ## 4 [Petya and Strings](http://codeforces.com/problemset/problem/112/A)
+## 5 [Helpful Maths](https://codeforces.com/problemset/problem/339/A)
