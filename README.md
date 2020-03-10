@@ -8,3 +8,4 @@ Div 2 A problems that i solved when i started codeforces
 ## 5 [Helpful Maths](https://codeforces.com/problemset/problem/339/A)
 ## 6 [Twins](https://codeforces.com/contest/160/problem/A)
 ## 7 [Chat room](https://codeforces.com/problemset/problem/58/A)
+## 8 [Lucky Number](https://codeforces.com/contest/122/problem/A)
