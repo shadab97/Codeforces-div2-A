@@ -10,3 +10,4 @@ Div 2 A problems that i solved when i started codeforces
 ## 7 [Chat room](https://codeforces.com/problemset/problem/58/A)
 ## 8 [Lucky Number](https://codeforces.com/contest/122/problem/A)
 ## 9 [Presents](https://codeforces.com/problemset/problem/136/A)
+## 10 [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)
