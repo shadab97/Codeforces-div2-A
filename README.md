@@ -14,3 +14,4 @@ Div 2 A problems that i solved when i started codeforces
 ### 11 [Arrival of the General](https://codeforces.com/contest/144/problem/A)
 ### 12 [Game with sticks](https://codeforces.com/problemset/problem/451/A)
 ### 13 [Games](https://codeforces.com/problemset/problem/268/A)
+### 14 [Dubstep](https://codeforces.com/problemset/problem/208/A)
