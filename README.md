@@ -15,4 +15,4 @@ Div 2 A problems that i solved when i started codeforces
 ### 12 [Game with sticks](https://codeforces.com/problemset/problem/451/A)
 ### 13 [Games](https://codeforces.com/problemset/problem/268/A)
 ### 14 [Dubstep](https://codeforces.com/problemset/problem/208/A)
-### 15 [Dubstep](https://codeforces.com/contest/69/problem/A)
+### 15 [Young Physicist](https://codeforces.com/contest/69/problem/A)
