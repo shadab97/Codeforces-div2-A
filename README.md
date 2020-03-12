@@ -12,3 +12,4 @@ Div 2 A problems that i solved when i started codeforces
 ### 9 [Presents](https://codeforces.com/problemset/problem/136/A)
 ### 10 [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)
 ### 11 [Arrival of the General](https://codeforces.com/contest/144/problem/A)
+### 12 [Game with sticks](https://codeforces.com/problemset/problem/451/A)
