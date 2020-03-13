@@ -17,4 +17,4 @@ Div 2 A problems that i solved when i started codeforces
 ### 14 [Dubstep](https://codeforces.com/problemset/problem/208/A)
 ### 15 [Young Physicist](https://codeforces.com/contest/69/problem/A)
 ### 16 [Puzzles](https://codeforces.com/contest/337/problem/A)
-### 17 [Puzzles](https://codeforces.com/contest/479/problem/A)
+### 17 [Expression](https://codeforces.com/contest/479/problem/A)
