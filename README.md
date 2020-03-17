@@ -1,3 +1,4 @@
+
 # Codeforces-div2-A
 Div 2 A problems that i solved when i started codeforces
 
@@ -24,6 +25,7 @@ Div 2 A problems that i solved when i started codeforces
 ### 21 [Cheap Travel](https://codeforces.com/contest/466/problem/A)
 ### 22 [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A)
 ### 23 [Dragons](https://codeforces.com/contest/230/problem/A)
+### 24 [Dragons](https://codeforces.com/problemset/problem/459/A)
 
 
 
