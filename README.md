@@ -27,6 +27,7 @@ Div 2 A problems that i solved when i started codeforces
 ### 23 [Dragons](https://codeforces.com/contest/230/problem/A)
 ### 24 [Pashmak and Garden](https://codeforces.com/problemset/problem/459/A)
 ### 25 [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A)
+### 26 [Team Olympiad](https://codeforces.com/problemset/problem/490/A)
 
 
 
