@@ -28,6 +28,8 @@ Div 2 A problems that i solved when i started codeforces
 ### 24 [Pashmak and Garden](https://codeforces.com/problemset/problem/459/A)
 ### 25 [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A)
 ### 26 [Team Olympiad](https://codeforces.com/problemset/problem/490/A)
+### 27 [Devu, the Singer and Churu, the Joker](https://codeforces.com/contest/439/problem/A)
+### 28 [Fox ans Snake](https://codeforces.com/problemset/problem/510/A)
 
 
 
