@@ -32,6 +32,7 @@ Div 2 A problems that i solved when i started codeforces
 ### 28 [Fox ans Snake](https://codeforces.com/problemset/problem/510/A)
 ### 29 [IQ test](https://codeforces.com/problemset/problem/25/A)
 ### 30 [Choosing Teams](https://codeforces.com/problemset/problem/432/A)
+### 31 [Cakeminator](https://codeforces.com/problemset/problem/330/A)
 
 
 
