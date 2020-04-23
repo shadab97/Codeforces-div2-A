@@ -64,4 +64,6 @@ Div 2 A problems that i solved when i started codeforces
 
 ### 31 [Cakeminator](https://codeforces.com/problemset/problem/330/A)
 
-### 31 [Valera and Antique Items](https://codeforces.com/problemset/problem/441/A)
+### 32 [Valera and Antique Items](https://codeforces.com/problemset/problem/441/A)
+
+### 33 [Appleman and Easy Task](https://codeforces.com/contest/462/problem/A)
