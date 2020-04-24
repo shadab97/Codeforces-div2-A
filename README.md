@@ -67,3 +67,7 @@ Div 2 A problems that i solved when i started codeforces
 ### 32 [Valera and Antique Items](https://codeforces.com/problemset/problem/441/A)
 
 ### 33 [Appleman and Easy Task](https://codeforces.com/contest/462/problem/A)
+
+### 34 [Nastya and Rice](https://codeforces.com/contest/1341/problem/A)
+
+### 35 [ Bear and Raspberry](https://codeforces.com/contest/385/problem/A)
