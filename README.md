@@ -71,3 +71,7 @@ Div 2 A problems that i solved when i started codeforces
 ### 34 [Nastya and Rice](https://codeforces.com/contest/1341/problem/A)
 
 ### 35 [ Bear and Raspberry](https://codeforces.com/contest/385/problem/A)
+
+### 36 [Lunch Rush](https://codeforces.com/problemset/problem/276/A)
+
+### 37 [Laptops](https://codeforces.com/contest/456/problem/A)
