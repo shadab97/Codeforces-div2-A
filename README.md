@@ -75,3 +75,5 @@ Div 2 A problems that i solved when i started codeforces
 ### 36 [Lunch Rush](https://codeforces.com/problemset/problem/276/A)
 
 ### 37 [Laptops](https://codeforces.com/contest/456/problem/A)
+
+### 38 [Soft Drinking](https://codeforces.com/contest/151/problem/A)
