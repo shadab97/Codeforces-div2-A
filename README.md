@@ -79,3 +79,5 @@ Div 2 A problems that i solved when i started codeforces
 ### 38 [Soft Drinking](https://codeforces.com/contest/151/problem/A)
 
 ### 39 [Vanya and Cubes](https://codeforces.com/problemset/problem/492/A)
+
+### 40 [Road To Zero](https://codeforces.com/contest/1342/problem/A)
