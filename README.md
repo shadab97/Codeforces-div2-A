@@ -85,3 +85,5 @@ Div 2 A problems that i solved when i started codeforces
 ### 41 [Playing with Dice](http://codeforces.com/problemset/problem/378/A)
 
 ### 42 [Minimum Difficulty](http://codeforces.com/problemset/problem/496/A)
+
+### 43 [Greg's Workout](http://codeforces.com/problemset/problem/255/A)
