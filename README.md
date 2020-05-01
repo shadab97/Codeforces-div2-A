@@ -81,3 +81,7 @@ Div 2 A problems that i solved when i started codeforces
 ### 39 [Vanya and Cubes](https://codeforces.com/problemset/problem/492/A)
 
 ### 40 [Road To Zero](https://codeforces.com/contest/1342/problem/A)
+
+### 41 [Playing with Dice](http://codeforces.com/problemset/problem/378/A)
+
+### 42 [Minimum Difficulty](http://codeforces.com/problemset/problem/496/A)
