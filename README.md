@@ -89,3 +89,7 @@ Div 2 A problems that i solved when i started codeforces
 ### 43 [Greg's Workout](http://codeforces.com/problemset/problem/255/A)
 
 ### 44 [Counterexample](http://codeforces.com/problemset/problem/483/A)
+
+### 45 [Valera and X](http://codeforces.com/problemset/problem/404/A)
+
+### 46 [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A)
