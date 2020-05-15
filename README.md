@@ -93,3 +93,8 @@ Div 2 A problems that i solved when i started codeforces
 ### 45 [Valera and X](http://codeforces.com/problemset/problem/404/A)
 
 ### 46 [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A)
+
+### 47 [New Year and Hurry](https://codeforces.com/contest/750/problem/A)
+
+### 48 [Perfect Permutation](https://codeforces.com/problemset/problem/233/A)
+
