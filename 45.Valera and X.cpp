@@ -9,62 +9,24 @@ int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);cout.tie(0);
- 	int n;
- 	cin>>n;
- 	char arr [n][n];
- 	for(int i=0;i<n;i++){
- 		for(int j=0;j<n;j++){
- 		cin>>arr[i][j];	
-		}
-	 	
-	}
-	char dig=arr[0][0];
-	int d=0;
-	
-	char ndig1=arr[0][1];
-	char ndig2=arr[1][0];
-	int cntndi=0;
-	
-if(ndig1!=ndig1){
-	cout<<"NO";
-	return 0;
-}
-	
-	for(int i=0;i<n;i++){
- 		for(int j=0;j<n;j++){
- 			if(i==j || i+j==n){
- 				if(dig==arr[i][j]){
- 					d=1;
-				 }else{
-				 	d=0;
-				 	break;
-				 }
-					
-			} 	
-		}
-	}
-	
-	for(int i=0;i<n;i++){
- 		for(int j=0;j<n;j++){
- 			if(i==j || i+j==n){
- 				if(i==j || i+j==n){
- 					
-				 }
- 				else if(arr[i][j]==ndig1){
- 					cntndi=1;
-				 }else{
-				 	cntndi=0;
-				 	break;
-				 }
-					
-			} 	
-		}
-	}
-	if(d==0||cntndi==0){
-		cout<<"NO"<<endl;
-	}else{
-		cout<<"YES"<<endl;
-	}
-	
+	int n;
+    cin >> n;
+    string s;
+    set<char> x, y;
+
+    for (int i = 0; i < n; i++)
+    {
+        cin >> s;
+        for (int j = 0; j < n; j++)
+            if (i == j or i + j == n - 1)
+                x.insert(s[j]);
+            else
+                y.insert(s[j]);
+    }
+
+    if (x.size() == 1 and y.size() == 1 and *x.begin() != *y.begin())
+        cout << "YES" << endl;
+    else
+        cout << "NO" << endl;
     return 0;
 }
