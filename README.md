@@ -98,3 +98,18 @@ Div 2 A problems that i solved when i started codeforces
 
 ### 48 [Perfect Permutation](https://codeforces.com/problemset/problem/233/A)
 
+### 49 [Theatre Square](https://codeforces.com/contest/1/problem/A)
+
+### 50 [Next Round](https://codeforces.com/contest/158/problem/A)
+
+### 51 [Team](https://codeforces.com/contest/231/problem/A)
+
+### 52 [Domino Piling](https://codeforces.com/contest/50/problem/A)
+
+### 53 [Bit++](https://codeforces.com/contest/282/problem/A)
+
+### 54 [World Capitalization](https://codeforces.com/contest/281/problem/A)
+
+### 55 [Stones on the Table](https://codeforces.com/contest/266/problem/A)
+
+### 56 [Boy or girl](https://codeforces.com/contest/236/problem/A)
